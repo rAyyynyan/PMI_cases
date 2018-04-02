@@ -1,0 +1,5 @@
+*data*
+*.html
+*.csv
+.DS_Store
+*checkpoint*
